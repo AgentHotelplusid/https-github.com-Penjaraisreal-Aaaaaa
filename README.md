@@ -1,6 +1,6 @@
-html>
-<head>
-<title>Minggo.co.id</title>
+INGIN BERTEMAN DENGAN PARA WANITA DIBERBAGAI TEMPAT.
+CEKIN HOTEL MUDAH LENGKAP DENGAN SERVIS LEDIES DIDALAMNYA 
+<title>https://www.instagram.com/sherlyirenee?igsh=OGQ5ZDc2ODk2ZA==
 <link href="style.css" rel="stylesheet" type="text/css" />
 <link href="js/js-image-slider.css" rel="stylesheet" type="text/css" />
 <script src="js/js-image-slider.js" type="text/javascript"></script>
@@ -291,11 +291,11 @@ echo draw_calendar(date('n'),date('Y'));
 <div class="bawah">
 <div class="k1">
 <h5>Our Contact</h5>
-<h4 id="foot_text" style="font-weight:bold">+625 295 896 395</h4>
-<h4 id="foot_text" style="font-weight:bold">+621 214 947 294</h4>
+<h4 id="foot_text" style="font-weight:bold">+62895321100404</h4>
+<h4 id="foot_text" style="font-weight:bold">+62895321100404</h4>
 <h4 id="foot_text">Intan Regency, Blok K No.7 Garut</h4>
 </div>
-
+https://www.instagram.com/sherlyirenee?igsh=OGQ5ZDc2ODk2ZA==
 <div class="k2">
 </div>
 
